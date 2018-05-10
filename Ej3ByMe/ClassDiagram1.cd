@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ej3ByMe.Cafeteria">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cafeteria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ej3ByMe.MaquinaCafe">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABgAAAAACAAAAAgAAAACAAAAAgAAEAAAAAAAA=</HashCode>
+      <FileName>MaquinaCafe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ej3ByMe.Cafe">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEQAAAAEAAAQAAAAEAAAAAAEAAAABAA=</HashCode>
+      <FileName>Cafe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ej3ByMe.VasoCafe">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAAACAAAAAgAAAAAAAA=</HashCode>
+      <FileName>VasoCafe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

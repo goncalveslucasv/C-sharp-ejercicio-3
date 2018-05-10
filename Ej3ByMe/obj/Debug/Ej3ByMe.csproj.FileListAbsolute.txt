@@ -1,0 +1,12 @@
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\bin\Debug\Ej3ByMe.exe.config
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\bin\Debug\Ej3ByMe.exe
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\bin\Debug\Ej3ByMe.pdb
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.csprojResolveAssemblyReference.cache
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.Form1.resources
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.frmConfiguracion.resources
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.Properties.Resources.resources
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.csproj.GenerateResource.cache
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.csproj.CoreCompileInputs.cache
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.exe
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.pdb
+C:\Users\casVicente.Goncalves\Desktop\Ej3ByMe\Ej3ByMe\obj\Debug\Ej3ByMe.frmVenta.resources
