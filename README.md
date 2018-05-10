@@ -1,4 +1,4 @@
-# C SHARP Ejercicio-4
+# C SHARP ejercicio 3
 ## Universidad Abierta Interamericana (UAI) - POO
 
 Una cafetería cuenta con varias de máquinas de preparar café.
